@@ -1,4 +1,4 @@
-# Scalable URL Shortener with LRU Cache
+# CLIPURL — Scalable URL Shortener with LRU Cache
 
 Backend system design project demonstrating caching and low-latency URL redirection.
 
